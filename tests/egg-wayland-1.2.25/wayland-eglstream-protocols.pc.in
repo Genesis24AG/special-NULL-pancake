@@ -1,7 +1,0 @@
-prefix=@prefix@
-datarootdir=@datarootdir@
-pkgdatadir=@datadir@/@PACKAGE@
-
-Name: wayland-eglstream-protocols
-Description: Nvidia Wayland EGLStream XML protocol files
-Version: @WAYLAND_EXTERNAL_VERSION@
